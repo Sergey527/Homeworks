@@ -1,0 +1,136 @@
+body {
+    background-image: url(../img/background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(14, 13, 13);
+    font-size: 16px;
+    color: white;
+}
+
+header {
+    margin-top: 57px;
+}
+
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links {
+    display: flex;
+    margin-left: 52px;
+    margin-right: 137px;
+    justify-content: space-between;
+    width: 503px;
+}
+
+.link {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.number {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 47px;
+}
+
+.header__right {
+    display: flex;
+}
+
+.icon {
+    margin-right: 30px;
+}
+
+main {
+    margin-top: 90px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.slogan {
+    width: 270px;
+    margin-right: 500px;
+}
+
+.slogan__title {
+    font-size: 48px;
+}
+
+.welbex {
+    color: orange
+}
+
+.slogan__text {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.rec_title {
+    text-align: right;
+    font-size: 18px;
+}
+
+.free_cons {
+    color: orange;
+}
+
+.para {
+    display: flex;
+    text-align: right;
+    justify-content: flex-end
+}
+
+.para:last-of-type {
+    margin-bottom: 80px;
+}
+
+.box {
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+.btn {
+    margin-top: 60px;
+    padding: 21px 35px;
+    background-color: #4077F3;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    margin-top: 70px;
+    width: 900px;
+}
+
+.footer {
+    display: flex;
+}
+
+.left__footer {
+    display: flex;
+}
+
+.company {
+    margin-right: 100px;
+}
+
+.menu_menu {
+    display: flex;
+}
+
+.menu-column {
+    display: block;
+}
